@@ -26,7 +26,9 @@ Trailer: https://www.youtube.com/watch?v=LyzE8wF3h6w
 
 Walkthrough: https://www.youtube.com/watch?v=6U1y6oMrDNA
 
-# Others on this project
+# Members of the team
+Skylar Riches - https://skylarriches.github.io
+
 Rory Wallace - https://github.com/artica2
 
 Jack Court-Chandler - https://www.artstation.com/jackcourt-chandler
