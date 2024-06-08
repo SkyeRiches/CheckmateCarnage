@@ -26,6 +26,9 @@ Trailer: https://www.youtube.com/watch?v=LyzE8wF3h6w
 
 Walkthrough: https://www.youtube.com/watch?v=6U1y6oMrDNA
 
+# Available to play on Itch.io
+https://rook-and-ruin.itch.io/checkmate-carnage
+
 # Members of the team
 Skylar Riches - https://skylarriches.github.io
 
